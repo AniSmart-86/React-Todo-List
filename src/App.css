@@ -95,7 +95,7 @@ p{
   height: 25px;
   width: 30px;
   border-radius: 50%;
-  background-image: url(/src/check-icon.png);
+  background-image: url(/src/components/check-icon.png);
   background-size: cover;
   background-position: center;
   /* top: 12px; */

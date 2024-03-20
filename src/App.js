@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import { ToDoWrapper } from './ToDoWrapper';
+import { ToDoWrapper } from './components/ToDoWrapper';
 
 
 function App() {
